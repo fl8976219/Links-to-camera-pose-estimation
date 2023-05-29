@@ -13,3 +13,8 @@ camera pose estimation
 
 # github
 1. <https://github.com/hamburgerlady> (A fast minimal solver for absolute camera pose with unknown focal length and radial distortion from four planar points论文的作者，他的仓库中还包括了径向畸变的解决。)
+2. https://github.com/GrumpyZhou/visloc-apr （PoseNet，深度学习的方式求位姿）
+3. https://github.com/sebhaner/refractive_pose
+4. https://github.com/Liumouliu/p2p_vertical_direction
+5. https://github.com/Liu-Yinlong/Ro_PnL
+6. https://github.com/vlarsson/PoseLib
