@@ -20,4 +20,5 @@ camera pose estimation
 3. https://github.com/sebhaner/refractive_pose
 4. https://github.com/Liumouliu/p2p_vertical_direction
 5. https://github.com/Liu-Yinlong/Ro_PnL (绝对相机姿态估计,通过线匹配来做)
-6. https://github.com/vlarsson/PoseLib
+6. https://github.com/vlarsson/PoseLib (包含了求位姿（绝对位姿、相对位姿）的各种情况，如图所示)
+
